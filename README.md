@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sofía</h1>
+<h1 align="center">Hi 👋, I'm Sofía </h1>
 <h3 align="center">A Full Stack Java Developer</h3>
+<h3 align="center">I'm happy to be on this path and I'm constantly looking for new knowledge.</h3>
 
 - 📫 How to reach me **sofiaariza15@hotmail.com**
 
